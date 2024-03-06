@@ -1,0 +1,29 @@
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.csproj.AssemblyReference.cache
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfoInputs.cache
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfo.cs
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.exe
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.deps.json
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.runtimeconfig.json
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.dll
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.pdb
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.dll
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\refint\Xadrez.dll
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.pdb
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.genruntimeconfig.cache
+C:\Users\Karla Cintia\Desktop\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\ref\Xadrez.dll
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.exe
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.deps.json
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.runtimeconfig.json
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.dll
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\bin\Debug\net6.0\Xadrez.pdb
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfoInputs.cache
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfo.cs
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.dll
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\refint\Xadrez.dll
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.pdb
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\Xadrez.genruntimeconfig.cache
+C:\Users\lobof\OneDrive\Área de Trabalho\C# volta\Orientação a objetos\Xadrez\obj\Debug\net6.0\ref\Xadrez.dll

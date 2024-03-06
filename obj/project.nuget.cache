@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8Eci/oNw/ysAqvQ8PLqInzyjKEZYgsNQ7UvNhqqGhTeqI5TTuanM0ohtZuaN0Xk34E8VNZiO1hsw1n5nXNphA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lobof\\OneDrive\\Área de Trabalho\\C# volta\\Orientação a objetos\\Xadrez\\Xadrez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lobof\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\lobof\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\lobof\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\lobof\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
